@@ -173,8 +173,8 @@
                     <span style="color: #FFFFFF;">毛遂自荐</span>
                 </li>
                 <li class="list-group-item">
-                    <p style="color: #DB3652;">站长:朱占全</p>
-                    <div style="color: #DB3652;">电话:133-5291-6252</div>
+                    <p style="color: #DB3652;">站长:青烟</p>
+                    <div style="color: #DB3652;">电话 110</div>
                     <span style="color: #DB3652;">邮箱:</span>
                     <a rel="nofollow" href="mailto:qingyan@fozoto.com" style="color: #DB3652;">qingyan@fozoto.com</a>
                     <p style="color: #DB3652;"></p>
